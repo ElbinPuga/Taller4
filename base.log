@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.7.18)  12 SEP 2024 10:32
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.7.18)  13 SEP 2024 09:26
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -605,12 +605,12 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 48
  (C:\Users\elbin\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 )) (1.Portada/portada.tex
-<Imagenes/utp.png, id=22, 2410.00375pt x 2410.00375pt>
+<Imagenes/utp.png, id=38, 2410.00375pt x 2410.00375pt>
 File: Imagenes/utp.png Graphic file (type png)
 <use Imagenes/utp.png>
 Package pdftex.def Info: Imagenes/utp.png  used on input line 9.
 (pdftex.def)             Requested size: 168.7175pt x 168.7175pt.
-<Imagenes/fisc.png, id=23, 276.03125pt x 276.03125pt>
+<Imagenes/fisc.png, id=39, 276.03125pt x 276.03125pt>
 File: Imagenes/fisc.png Graphic file (type png)
 <use Imagenes/fisc.png>
 Package pdftex.def Info: Imagenes/fisc.png  used on input line 10.
@@ -624,7 +624,31 @@ Package pdftex.def Info: Imagenes/fisc.png  used on input line 10.
 
  [2
 
-] (base.lof)
+] (base.lof
+LaTeX Font Info:    Calculating math sizes for size <13.5> on input line 4.
+LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 4.
+ (C:\Users\elbin\AppData\Local\Programs\MiKTeX\tex/latex/lm\ot1lmr.fd
+File: ot1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+)
+LaTeX Font Info:    Trying to load font information for OML+lmm on input line 4.
+ (C:\Users\elbin\AppData\Local\Programs\MiKTeX\tex/latex/lm\omllmm.fd
+File: omllmm.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+)
+LaTeX Font Info:    Trying to load font information for OMS+lmsy on input line 4.
+ (C:\Users\elbin\AppData\Local\Programs\MiKTeX\tex/latex/lm\omslmsy.fd
+File: omslmsy.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+)
+LaTeX Font Info:    Trying to load font information for OMX+lmex on input line 4.
+ (C:\Users\elbin\AppData\Local\Programs\MiKTeX\tex/latex/lm\omxlmex.fd
+File: omxlmex.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+)
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <13.5> on input line 4.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <9.44995> on input line 4.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <6.75> on input line 4.
+)
 \tf@lof=\write6
 \openout6 = `base.lof'.
 
@@ -640,11 +664,33 @@ Chapter 2.
 
 ]
 Chapter 3.
-[6
+(3.Desarrollo/Parte1/PI.tex
+<Imagenes/robot_p1.jpg, id=78, 203.25937pt x 262.73157pt>
+File: Imagenes/robot_p1.jpg Graphic file (type jpg)
+<use Imagenes/robot_p1.jpg>
+Package pdftex.def Info: Imagenes/robot_p1.jpg  used on input line 7.
+(pdftex.def)             Requested size: 101.62943pt x 131.36545pt.
+) [6
+
+ <./Imagenes/robot_p1.jpg>]
+Chapter 4.
+(3.Desarrollo/Parte2/PII.tex) [7
 
 ]
-Chapter 4.
-[7
+Chapter 5.
+(3.Desarrollo/Parte3/PIII.tex) [8
+
+]
+Chapter 6.
+(4.Conclusiones/concl.tex) [9
+
+]
+Chapter 7.
+[10
+
+]
+Chapter 8.
+(6.Referencias/ref.tex) [11
 
 ] (base.aux)
  ***********
@@ -652,20 +698,20 @@ LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-05-08>
  ***********
 Package rerunfilecheck Info: File `base.out' has not changed.
-(rerunfilecheck)             Checksum: 7ADB9699CC4659AEFA61050832A47646;400.
+(rerunfilecheck)             Checksum: 674B96D7270CE123AFF35BA3E684FA3A;819.
  ) 
 Here is how much of TeX's memory you used:
- 20956 strings out of 474313
- 397137 string characters out of 5739306
+ 21098 strings out of 474313
+ 401530 string characters out of 5739306
  1930907 words of memory out of 5000000
- 43052 multiletter control sequences out of 15000+600000
- 586427 words of font info for 47 fonts, out of 8000000 for 9000
+ 43139 multiletter control sequences out of 15000+600000
+ 597466 words of font info for 57 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  83i,7n,93p,1305b,452s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/elbin/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmbx12.pfb><C:/Users/elbin/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmcsc10.pfb><C:/Users/elbin/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr12.pfb>
-Output written on base.pdf (7 pages, 290745 bytes).
+Output written on base.pdf (11 pages, 321102 bytes).
 PDF statistics:
- 86 PDF objects out of 1000 (max. 8388607)
- 14 named destinations out of 1000 (max. 500000)
- 55 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 126 PDF objects out of 1000 (max. 8388607)
+ 23 named destinations out of 1000 (max. 500000)
+ 92 words of extra memory for PDF output out of 10000 (max. 10000000)
 
