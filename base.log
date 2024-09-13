@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.7.18)  13 SEP 2024 09:26
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.7.18)  13 SEP 2024 13:53
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -656,7 +656,7 @@ LaTeX Font Info:    External font `lmex10' loaded for size
 
 ]
 Chapter 1.
-[4
+(2.Introduccion/intro.tex) [4
 
 ]
 Chapter 2.
@@ -665,7 +665,7 @@ Chapter 2.
 ]
 Chapter 3.
 (3.Desarrollo/Parte1/PI.tex
-<Imagenes/robot_p1.jpg, id=78, 203.25937pt x 262.73157pt>
+<Imagenes/robot_p1.jpg, id=87, 203.25937pt x 262.73157pt>
 File: Imagenes/robot_p1.jpg Graphic file (type jpg)
 <use Imagenes/robot_p1.jpg>
 Package pdftex.def Info: Imagenes/robot_p1.jpg  used on input line 7.
@@ -674,23 +674,52 @@ Package pdftex.def Info: Imagenes/robot_p1.jpg  used on input line 7.
 
  <./Imagenes/robot_p1.jpg>]
 Chapter 4.
-(3.Desarrollo/Parte2/PII.tex) [7
+(3.Desarrollo/Parte2/PII.tex
+<Imagenes/p1.png, id=92, 264.38776pt x 236.082pt>
+File: Imagenes/p1.png Graphic file (type png)
+<use Imagenes/p1.png>
+Package pdftex.def Info: Imagenes/p1.png  used on input line 13.
+(pdftex.def)             Requested size: 237.94676pt x 212.47182pt.
+LaTeX Font Info:    Trying to load font information for TS1+lmr on input line 22.
+ (C:\Users\elbin\AppData\Local\Programs\MiKTeX\tex/latex/lm\ts1lmr.fd
+File: ts1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+) [7
 
-]
+{C:/Users/elbin/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-ts1.enc} <./Imagenes/p1.png>]
+<Imagenes/repeti.png, id=103, 158.994pt x 138.5175pt>
+File: Imagenes/repeti.png Graphic file (type png)
+<use Imagenes/repeti.png>
+Package pdftex.def Info: Imagenes/repeti.png  used on input line 36.
+(pdftex.def)             Requested size: 79.4968pt x 69.25858pt.
+<Imagenes/presicion.png, id=104, 155.98276pt x 128.8815pt>
+File: Imagenes/presicion.png Graphic file (type png)
+<use Imagenes/presicion.png>
+Package pdftex.def Info: Imagenes/presicion.png  used on input line 42.
+(pdftex.def)             Requested size: 77.99118pt x 64.44058pt.
+ [8 <./Imagenes/repeti.png> <./Imagenes/presicion.png>]) [9]
 Chapter 5.
-(3.Desarrollo/Parte3/PIII.tex) [8
+(3.Desarrollo/Parte3/PIII.tex) [10
 
 ]
 Chapter 6.
-(4.Conclusiones/concl.tex) [9
+(4.Conclusiones/concl.tex) [11
 
 ]
 Chapter 7.
-[10
+[12
 
 ]
 Chapter 8.
-(6.Referencias/ref.tex) [11
+(6.Referencias/ref.tex
+LaTeX Font Info:    Trying to load font information for T1+lmtt on input line 1.
+ (C:\Users\elbin\AppData\Local\Programs\MiKTeX\tex/latex/lm\t1lmtt.fd
+File: t1lmtt.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+))
+Overfull \hbox (67.63026pt too wide) in paragraph at lines 1--62
+[]$\T1/lmtt/m/n/13.5 http : / / www . casadellibro . com / libro-[]fundamentos-[]de-[]robotica-[]2-[]ed / 9788448156367 /
+ []
+
+[13
 
 ] (base.aux)
  ***********
@@ -701,17 +730,17 @@ Package rerunfilecheck Info: File `base.out' has not changed.
 (rerunfilecheck)             Checksum: 674B96D7270CE123AFF35BA3E684FA3A;819.
  ) 
 Here is how much of TeX's memory you used:
- 21098 strings out of 474313
- 401530 string characters out of 5739306
- 1930907 words of memory out of 5000000
- 43139 multiletter control sequences out of 15000+600000
- 597466 words of font info for 57 fonts, out of 8000000 for 9000
+ 21231 strings out of 474313
+ 404379 string characters out of 5739306
+ 1932907 words of memory out of 5000000
+ 43237 multiletter control sequences out of 15000+600000
+ 598159 words of font info for 59 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 83i,7n,93p,1305b,452s stack positions out of 10000i,1000n,20000p,200000b,200000s
-<C:/Users/elbin/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmbx12.pfb><C:/Users/elbin/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmcsc10.pfb><C:/Users/elbin/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr12.pfb>
-Output written on base.pdf (11 pages, 321102 bytes).
+ 83i,7n,93p,1305b,594s stack positions out of 10000i,1000n,20000p,200000b,200000s
+<C:/Users/elbin/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmbx12.pfb><C:/Users/elbin/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmcsc10.pfb><C:/Users/elbin/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr12.pfb><C:/Users/elbin/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmtt12.pfb>
+Output written on base.pdf (13 pages, 401318 bytes).
 PDF statistics:
- 126 PDF objects out of 1000 (max. 8388607)
- 23 named destinations out of 1000 (max. 500000)
- 92 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 181 PDF objects out of 1000 (max. 8388607)
+ 44 named destinations out of 1000 (max. 500000)
+ 107 words of extra memory for PDF output out of 10000 (max. 10000000)
 
