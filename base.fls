@@ -271,10 +271,6 @@ INPUT C:\Users\elbin\AppData\Local\Programs\MiKTeX\fonts\tfm\public\lm\ec-lmbx12
 INPUT .\base.toc
 INPUT .\base.toc
 INPUT base.toc
-OUTPUT base.toc
-INPUT .\base.lof
-INPUT .\base.lof
-INPUT base.lof
 INPUT C:\Users\elbin\AppData\Local\Programs\MiKTeX\tex\latex\lm\ot1lmr.fd
 INPUT C:\Users\elbin\AppData\Local\Programs\MiKTeX\tex\latex\lm\ot1lmr.fd
 INPUT C:\Users\elbin\AppData\Local\Programs\MiKTeX\tex\latex\lm\ot1lmr.fd
@@ -297,6 +293,10 @@ INPUT C:\Users\elbin\AppData\Local\Programs\MiKTeX\tex\latex\lm\omxlmex.fd
 INPUT C:\Users\elbin\AppData\Local\Programs\MiKTeX\tex\latex\lm\omxlmex.fd
 INPUT C:\Users\elbin\AppData\Local\Programs\MiKTeX\tex\latex\lm\omxlmex.fd
 INPUT C:\Users\elbin\AppData\Local\Programs\MiKTeX\fonts\tfm\public\lm\lmex10.tfm
+OUTPUT base.toc
+INPUT .\base.lof
+INPUT .\base.lof
+INPUT base.lof
 OUTPUT base.lof
 INPUT .\2.Introduccion\intro.tex
 INPUT .\2.Introduccion\intro.tex

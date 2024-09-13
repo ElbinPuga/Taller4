@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1726253582.51189 "c:/Users/elbin/Documents/Universidad/Semestre II/Ing. Sistemas Robóticos/Talleres/Tarea4/Informe de Taller 4/base.tex" "base.pdf" "base" 1726253584.32976 0
+["pdflatex"] 1726253984.2261 "c:/Users/elbin/Documents/Universidad/Semestre II/Ing. Sistemas Robóticos/Talleres/Tarea4/Informe de Taller 4/base.tex" "base.pdf" "base" 1726253986.01208 0
   "1.Portada/portada.tex" 1726155139 993 a8caf92a0541af630495207fec4553ac ""
   "2.Introduccion/intro.tex" 1726253581 1216 06ff4c2497c0af371095e4a839b62997 ""
   "3.Desarrollo/Parte1/PI.tex" 1726237576 534 77b6ddf2b77cbd0059ab481d42187c4b ""
@@ -171,12 +171,12 @@
   "Imagenes/repeti.png" 1726251959 6054 141e30ab720f1509a1c39cd6f3f7d612 ""
   "Imagenes/robot_p1.jpg" 1726237335 15140 3ab3afc86b75ae39aa29e8e75b7bc92c ""
   "Imagenes/utp.png" 1721341546 105799 7b0e6b2f101038bc9c781b83b7d99321 ""
-  "base.aux" 1726253584 2197 7179c6c63299122af798d835f77cf677 "pdflatex"
-  "base.lof" 1726253584 549 b0baa1c0837ae3abce37ea6a65c78315 "pdflatex"
-  "base.out" 1726253584 819 674b96d7270ce123aff35ba3e684fa3a "pdflatex"
-  "base.tex" 1726253267 1797 db358795fc80684b32cc3ece3719aa75 ""
-  "base.toc" 1726253584 545 499f92fd6f39dbbae4f2ef633d9bb1e0 "pdflatex"
-  "c:/Users/elbin/Documents/Universidad/Semestre II/Ing. Sistemas Robóticos/Talleres/Tarea4/Informe de Taller 4/base.tex" 1726253267 1797 db358795fc80684b32cc3ece3719aa75 ""
+  "base.aux" 1726253985 1979 b8146b2c066536b4930deaebb1cec456 "pdflatex"
+  "base.lof" 1726253985 489 2db2c6d3e4339ab684c398b138ae6c5a "pdflatex"
+  "base.out" 1726253985 852 4de31dcdc8ad95e246c2844c8a7ad43a "pdflatex"
+  "base.tex" 1726253981 1797 28ed2289777d6415977abd7ee7fb908b ""
+  "base.toc" 1726253985 555 daf35f21dda3d163a40e7ef0d30dff2b "pdflatex"
+  "c:/Users/elbin/Documents/Universidad/Semestre II/Ing. Sistemas Robóticos/Talleres/Tarea4/Informe de Taller 4/base.tex" 1726253981 1797 28ed2289777d6415977abd7ee7fb908b ""
   (generated)
   "base.aux"
   "base.lof"
